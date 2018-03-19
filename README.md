@@ -2,6 +2,7 @@
 
 * Студент:  Ruslan Sidorov.
 * Наставник: Дима Тытарь.
+*[мой htmlacademy](https://htmlacademy.ru/profile/id477591)
 
 ---
 ### Памятка
